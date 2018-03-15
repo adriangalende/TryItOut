@@ -1,4 +1,4 @@
-package org.mvpigs;
+package org.mvpigs.tryItOut;
 
 import org.mvpigs.tryItOut.Interfaz.*;
 
