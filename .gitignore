@@ -1,0 +1,12 @@
+#MAVEN
+target/
+
+#IDE
+.classpath
+.project
+
+#VSCODE
+.vscode/
+
+#Library
+.settings/
