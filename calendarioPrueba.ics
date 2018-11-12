@@ -465,7 +465,6 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20191026
 DTSTART;VALUE=DATE:20191020
 UID:6fec1092d3fa-6b5392b94aba3cead5ec345822fb9741@airbnb.com
-SUMMARY:8/22/18 HOLD - winner of Vail Mtn Rescue Group auction ($1900 pai
- d)
+SUMMARY:8/22/18 HOLD - winner of Vail Mtn Rescue Group auction ($1900 paid)
 END:VEVENT
 END:VCALENDAR
