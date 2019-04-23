@@ -187,9 +187,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190120
 DTSTART;VALUE=DATE:20190117
 UID:1418fb94e984-25317e181c677c6b705545ad0d5fbd0f@airbnb.com
-DESCRIPTION:CHECKIN: 17/01/2019\\nCHECKOUT: 20/01/2019\\nNIGHTS: 3\\nPHONE: 
- +1 (408) 687-9597\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 17/01/2019\\nCHECKOUT: 20/01/2019\\nNIGHTS: 3\\nPHONE:  +1 (408) 687-9597\\nEMAIL: (no se ha facilitado ningún correo electrónico )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Luan Nguyen (HMDZFR8YM9)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -197,9 +195,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190127
 DTSTART;VALUE=DATE:20190123
 UID:1418fb94e984-778d83f8bbc71c0f2fae5a12a3096455@airbnb.com
-DESCRIPTION:CHECKIN: 23/01/2019\\nCHECKOUT: 27/01/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (760) 586-1222\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 23/01/2019\\nCHECKOUT: 27/01/2019\\nNIGHTS: 4\\nPHONE: +1 (760) 586-1222\\nEMAIL: (no se ha facilitado ningún correo electrónico+ )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Tonja Sedlmayer (HMJZNB9XZY)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -217,9 +213,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190220
 DTSTART;VALUE=DATE:20190217
 UID:1418fb94e984-f413775c2ca35e6349db21cdccda9331@airbnb.com
-DESCRIPTION:CHECKIN: 17/02/2019\\nCHECKOUT: 20/02/2019\\nNIGHTS: 3\\nPHONE: 
- +1 (832) 202-7298\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 17/02/2019\\nCHECKOUT: 20/02/2019\\nNIGHTS: 3\\nPHONE: +1 (832) 202-7298\\nEMAIL: (no se ha facilitado ningún correo electrónico )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Amy Tran (HMC5KE9RYY)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -227,9 +221,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190225
 DTSTART;VALUE=DATE:20190221
 UID:1418fb94e984-64cf28544cd8c6b8f9ef6916f755a266@airbnb.com
-DESCRIPTION:CHECKIN: 21/02/2019\\nCHECKOUT: 25/02/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (415) 310-2153\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 21/02/2019\\nCHECKOUT: 25/02/2019\\nNIGHTS: 4\\nPHONE: +1 (415) 310-2153\\nEMAIL: (no se ha facilitado ningún correo electrónico)\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Alexis Rhorer (HMBAE44W3R)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -237,9 +229,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190303
 DTSTART;VALUE=DATE:20190228
 UID:1418fb94e984-90ecdf5955788009cd4cb15a121e0f06@airbnb.com
-DESCRIPTION:CHECKIN: 28/02/2019\\nCHECKOUT: 03/03/2019\\nNIGHTS: 3\\nPHONE: 
- +1 (310) 218-6998\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 28/02/2019\\nCHECKOUT: 03/03/2019\\nNIGHTS: 3\\nPHONE: +1 (310) 218-6998\\nEMAIL: (no se ha facilitado ningún correo electrónico )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Natasha Jaffe (HMBRHD5RKA)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -247,9 +237,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190311
 DTSTART;VALUE=DATE:20190307
 UID:1418fb94e984-7f70c1743708343956a9f5000d2f9582@airbnb.com
-DESCRIPTION:CHECKIN: 07/03/2019\\nCHECKOUT: 11/03/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (818) 373-9112\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 07/03/2019\\nCHECKOUT: 11/03/2019\\nNIGHTS: 4\\nPHONE: +1 (818) 373-9112\\nEMAIL: (no se ha facilitado ningún correo electrónico)\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Kirby Adams (HM3ZA4ZARC)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -257,9 +245,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190314
 DTSTART;VALUE=DATE:20190312
 UID:1418fb94e984-515b2c149fe180bac768503dda6d7c30@airbnb.com
-DESCRIPTION:CHECKIN: 12/03/2019\\nCHECKOUT: 14/03/2019\\nNIGHTS: 2\\nPHONE: 
- +1 (619) 870-7239\\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 12/03/2019\\nCHECKOUT: 14/03/2019\\nNIGHTS: 2\\nPHONE: +1 (619) 870-7239\\nEMAIL: (no se ha facilitado ningún correo electrónico )\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Ed Montano (HMZA2C3WNY)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -267,10 +253,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190324
 DTSTART;VALUE=DATE:20190319
 UID:1418fb94e984-1045acdff70f019e9d99a07378325e8e@airbnb.com
-DESCRIPTION:CHECKIN: 19/03/2019\\nCHECKOUT: 24/03/2019\\nNIGHTS: 5\\nPHONE: 
- +1 (908) 884-6008\\nEMAIL: allison-m3ixscx5stzcmpeb@guest.airbnb.com\\nPRO
- PERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n\\nHillary a
- nd Greg Trip
+DESCRIPTION:CHECKIN: 19/03/2019\\nCHECKOUT: 24/03/2019\\nNIGHTS: 5\\nPHONE: +1 (908) 884-6008\\nEMAIL: allison-m3ixscx5stzcmpeb@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n\\nHillary and Greg Trip
 SUMMARY:Allison Shepperd (HMAP38Y94T)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -278,11 +261,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190413
 DTSTART;VALUE=DATE:20190407
 UID:1418fb94e984-257f9b6a030dc032c957efc90b1452d2@airbnb.com
-DESCRIPTION:CHECKIN: 07/04/2019\\nCHECKOUT: 13/04/2019\\nNIGHTS: 6\\nPHONE: 
- +1 (415) 722-7207\\nEMAIL: mary-iujmmc6hqtavccdd@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n\\nPaying for f
- irst night meal and liquor for arrival for being repeat guests and payin
- g full boat! 
+DESCRIPTION:CHECKIN: 07/04/2019\\nCHECKOUT: 13/04/2019\\nNIGHTS: 6\\nPHONE: +1 (415) 722-7207\\nEMAIL: mary-iujmmc6hqtavccdd@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n\\nPaying for first night meal and liquor for arrival for being repeat guests and paying full boat! 
 SUMMARY:Mary Batchelder (HM4QZY35BW)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -290,9 +269,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190420
 DTSTART;VALUE=DATE:20190413
 UID:1418fb94e984-723e3db2e57274cceaf225657ff41f06@airbnb.com
-DESCRIPTION:CHECKIN: 13/04/2019\\nCHECKOUT: 20/04/2019\\nNIGHTS: 7\\nPHONE: 
- +52 55 4365 2973\\nEMAIL: maru-hfvuzcg5q25inp78@guest.airbnb.com\\nPROPERT
- Y: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 13/04/2019\\nCHECKOUT: 20/04/2019\\nNIGHTS: 7\\nPHONE: +52 55 4365 2973\\nEMAIL: maru-hfvuzcg5q25inp78@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Maru Kammermayr (HMK8YTAXSY)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -300,9 +277,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190424
 DTSTART;VALUE=DATE:20190420
 UID:1418fb94e984-add6eaf96a2881aa02b69f452e9975da@airbnb.com
-DESCRIPTION:CHECKIN: 20/04/2019\\nCHECKOUT: 24/04/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (650) 740-3079\\nEMAIL: danielle-ozfcmy2kqoxhvmif@guest.airbnb.com\\nPR
- OPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 20/04/2019\\nCHECKOUT: 24/04/2019\\nNIGHTS: 4\\nPHONE: +1 (650) 740-3079\\nEMAIL: danielle-ozfcmy2kqoxhvmif@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Danielle Sees (HMEJC3MY8S)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -310,9 +285,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190501
 DTSTART;VALUE=DATE:20190424
 UID:1418fb94e984-23fe1d04d2de73fefc6a46d944494720@airbnb.com
-DESCRIPTION:CHECKIN: 24/04/2019\\nCHECKOUT: 01/05/2019\\nNIGHTS: 7\\nPHONE: 
- +1 (416) 809-1012\\nEMAIL: cheryl-bdwn63aua1q628wt@guest.airbnb.com\\nPROP
- ERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 24/04/2019\\nCHECKOUT: 01/05/2019\\nNIGHTS: 7\\nPHONE: +1 (416) 809-1012\\nEMAIL: cheryl-bdwn63aua1q628wt@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Cheryl Bursey (HMKPBNKXW8)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -320,9 +293,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190507
 DTSTART;VALUE=DATE:20190503
 UID:1418fb94e984-a78fe15d1807d11ee6d41a85a2a38d29@airbnb.com
-DESCRIPTION:CHECKIN: 03/05/2019\\nCHECKOUT: 07/05/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (510) 816-4737\\nEMAIL: fady-o09kz398z7181byh@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 03/05/2019\\nCHECKOUT: 07/05/2019\\nNIGHTS: 4\\nPHONE: +1 (510) 816-4737\\nEMAIL: fady-o09kz398z7181byh@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Fady Komery (HMAEXHQNFZ)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -330,9 +301,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190512
 DTSTART;VALUE=DATE:20190508
 UID:1418fb94e984-d5e9cc0e022d31ef70ea428c6333654f@airbnb.com
-DESCRIPTION:CHECKIN: 08/05/2019\\nCHECKOUT: 12/05/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (415) 430-8698\\nEMAIL: vera-jhvyxk5i5sujvlt6@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 08/05/2019\\nCHECKOUT: 12/05/2019\\nNIGHTS: 4\\nPHONE: +1 (415) 430-8698\\nEMAIL: vera-jhvyxk5i5sujvlt6@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Vera Sun (HMCN5XBY5S)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -340,9 +309,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190520
 DTSTART;VALUE=DATE:20190516
 UID:1418fb94e984-5d21519e38d8a7dd4e2bcf422307aae6@airbnb.com
-DESCRIPTION:CHECKIN: 16/05/2019\\nCHECKOUT: 20/05/2019\\nNIGHTS: 4\\nPHONE: 
- +52 55 5109 2835\\nEMAIL: alicia-zmoguaz2veimz7v4@guest.airbnb.com\\nPROPE
- RTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 16/05/2019\\nCHECKOUT: 20/05/2019\\nNIGHTS: 4\\nPHONE: +52 55 5109 2835\\nEMAIL: alicia-zmoguaz2veimz7v4@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Alicia Sutton (HMAMX92W9X)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -350,9 +317,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190527
 DTSTART;VALUE=DATE:20190523
 UID:1418fb94e984-23ddad568d1eff3841f7e15dba87b821@airbnb.com
-DESCRIPTION:CHECKIN: 23/05/2019\\nCHECKOUT: 27/05/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (608) 417-0713\\nEMAIL: wade-sr6zhks7f44jvzdw@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 23/05/2019\\nCHECKOUT: 27/05/2019\\nNIGHTS: 4\\nPHONE: +1 (608) 417-0713\\nEMAIL: wade-sr6zhks7f44jvzdw@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Wade Ebersole (HMSAMS9MKH)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -360,9 +325,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190618
 DTSTART;VALUE=DATE:20190611
 UID:1418fb94e984-4b29fdc988f6284144d2e89a9ac9c8a2@airbnb.com
-DESCRIPTION:CHECKIN: 11/06/2019\\nCHECKOUT: 18/06/2019\\nNIGHTS: 7\\nPHONE: 
- +1 (310) 993-7802\\nEMAIL: alissa-tn4290t7bxuq6jt1@guest.airbnb.com\\nPROP
- ERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 11/06/2019\\nCHECKOUT: 18/06/2019\\nNIGHTS: 7\\nPHONE: +1 (310) 993-7802\\nEMAIL: alissa-tn4290t7bxuq6jt1@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Alissa Green (HM3THHS9WJ)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -370,9 +333,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190707
 DTSTART;VALUE=DATE:20190704
 UID:1418fb94e984-8de03f2dcee55972829c84f9d4aad6c0@airbnb.com
-DESCRIPTION:CHECKIN: 04/07/2019\\nCHECKOUT: 07/07/2019\\nNIGHTS: 3\\nPHONE: 
- +1 (650) 773-4661\\nEMAIL: kaitlin-oni28m568bnidnm1@guest.airbnb.com\\nPRO
- PERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 04/07/2019\\nCHECKOUT: 07/07/2019\\nNIGHTS: 3\\nPHONE: +1 (650) 773-4661\\nEMAIL: kaitlin-oni28m568bnidnm1@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Kaitlin Bachtold (HMAMSMDFFN)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -380,9 +341,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190713
 DTSTART;VALUE=DATE:20190707
 UID:1418fb94e984-1be240103d7e39b55c3048e0d59a72c8@airbnb.com
-DESCRIPTION:CHECKIN: 07/07/2019\\nCHECKOUT: 13/07/2019\\nNIGHTS: 6\\nPHONE: 
- +1 (971) 219-0553\\nEMAIL: john-yd46qlx4a7zbdy40@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 07/07/2019\\nCHECKOUT: 13/07/2019\\nNIGHTS: 6\\nPHONE: +1 (971) 219-0553\\nEMAIL: john-yd46qlx4a7zbdy40@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:John Reuter (HMAN3MYPD3)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -390,9 +349,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190802
 DTSTART;VALUE=DATE:20190729
 UID:1418fb94e984-4a1b9588296ffbdd86306d31002a01e2@airbnb.com
-DESCRIPTION:CHECKIN: 29/07/2019\\nCHECKOUT: 02/08/2019\\nNIGHTS: 4\\nPHONE: 
- +1 (214) 789-7803\\nEMAIL: ana-6d1ro8h3spn8e5lv@guest.airbnb.com\\nPROPERT
- Y: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 29/07/2019\\nCHECKOUT: 02/08/2019\\nNIGHTS: 4\\nPHONE: +1 (214) 789-7803\\nEMAIL: ana-6d1ro8h3spn8e5lv@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Ana Arredondo (HMWSTFYAC3)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -400,9 +357,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190810
 DTSTART;VALUE=DATE:20190803
 UID:1418fb94e984-248fbcb8d2ee07220444f59a5e5abe10@airbnb.com
-DESCRIPTION:CHECKIN: 03/08/2019\\nCHECKOUT: 10/08/2019\\nNIGHTS: 7\\nPHONE: 
- +1 (909) 904-4780\\nEMAIL: olga-wugk6rzxare5q0bb@guest.airbnb.com\\nPROPER
- TY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 03/08/2019\\nCHECKOUT: 10/08/2019\\nNIGHTS: 7\\nPHONE: +1 (909) 904-4780\\nEMAIL: olga-wugk6rzxare5q0bb@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Olga Trevino (HMYPQXKX5R)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -410,9 +365,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190818
 DTSTART;VALUE=DATE:20190815
 UID:1418fb94e984-3b4af1f0c878efbc9de2e64015128138@airbnb.com
-DESCRIPTION:CHECKIN: 15/08/2019\\nCHECKOUT: 18/08/2019\\nNIGHTS: 3\\nPHONE: 
- +1 (510) 552-9439\\nEMAIL: michelle-udaedad6xhd9w03w@guest.airbnb.com\\nPR
- OPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
+DESCRIPTION:CHECKIN: 15/08/2019\\nCHECKOUT: 18/08/2019\\nNIGHTS: 3\\nPHONE: +1 (510) 552-9439\\nEMAIL: michelle-udaedad6xhd9w03w@guest.airbnb.com\\nPROPERTY: ♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥\\n
 SUMMARY:Michelle Walton (HMZ38D532C)
 LOCATION:♥Perfect Villa w/Private Pool\\,Chef\\,on Sandy Beach♥
 END:VEVENT
@@ -528,8 +481,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190228
 DTSTART;VALUE=DATE:20190225
 UID:6fec1092d3fa-976d0a80e243d4e88f5d9d2346176be9@airbnb.com
-SUMMARY:Was booked by person who lied about occupancy\\, I cancelled the i
- nstant book. Blocked off for staff days off
+SUMMARY:Was booked by person who lied about occupancy\\, I cancelled the instant book. Blocked off for staff days off
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20190317
@@ -541,8 +493,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20190516
 DTSTART;VALUE=DATE:20190515
 UID:6fec1092d3fa-cd14849857e915b47f18f804989eb922@airbnb.com
-SUMMARY:Blocked due to early check in on the 16th. Requested $300 from Al
- icia Sutton for the blockage/early check-in
+SUMMARY:Blocked due to early check in on the 16th. Requested $300 from Alicia Sutton for the blockage/early check-in
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20190607
@@ -578,8 +529,7 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20191026
 DTSTART;VALUE=DATE:20191020
 UID:6fec1092d3fa-0a4d1166c669d9b48b56c580737e9dfc@airbnb.com
-SUMMARY:8/22/18 HOLD - winner of Vail Mtn Rescue Group auction ($1900 pai
- d)
+SUMMARY:8/22/18 HOLD - winner of Vail Mtn Rescue Group auction ($1900 paid)
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20191228
