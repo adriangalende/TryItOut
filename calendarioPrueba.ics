@@ -3,468 +3,433 @@ PRODID;X-RICAL-TZSOURCE=TZINFO:-//Airbnb Inc//Hosting Calendar 0.8.8//EN
 CALSCALE:GREGORIAN
 VERSION:2.0
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20171113
-DTSTART;VALUE=DATE:20171112
-UID:1418fb94e984-abdde4c4f273e8a5237b3240df6b7b1d@airbnb.com
-DESCRIPTION:CHECKIN: 09/11/2017\nCHECKOUT: 13/11/2017\nNIGHTS: 4\nPHONE: 
- +1 (303) 345-7441\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Mark Murphy (HMJRKN88A9)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20171222
-DTSTART;VALUE=DATE:20171215
-UID:1418fb94e984-77f43ab9a84843792f23c3d99e838635@airbnb.com
-DESCRIPTION:CHECKIN: 15/12/2017\nCHECKOUT: 22/12/2017\nNIGHTS: 7\nPHONE: 
- +1 (604) 202-6299\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Raymond Low (ZNWJBS)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180109
-DTSTART;VALUE=DATE:20180102
-UID:1418fb94e984-5230fb45389b1402324b849572f3ed98@airbnb.com
-DESCRIPTION:CHECKIN: 02/01/2018\nCHECKOUT: 09/01/2018\nNIGHTS: 7\nPHONE: 
- +1 (623) 205-9865\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Laurie Odens (HAWS4C)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180128
-DTSTART;VALUE=DATE:20180125
-UID:1418fb94e984-017e6a3a89d9dab8e1afa6188596aa14@airbnb.com
-DESCRIPTION:CHECKIN: 25/01/2018\nCHECKOUT: 28/01/2018\nNIGHTS: 3\nPHONE: 
- +52 442 239 1052\nEMAIL: (no se ha facilitado ningún correo electrónico)
- \nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Amandiux Carranza (HMYRDXYBBP)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180206
-DTSTART;VALUE=DATE:20180203
-UID:1418fb94e984-ff74eeb1fc8450480d778e53c0c5f829@airbnb.com
-DESCRIPTION:CHECKIN: 03/02/2018\nCHECKOUT: 06/02/2018\nNIGHTS: 3\nPHONE: 
- +52 33 3954 4849\nEMAIL: (no se ha facilitado ningún correo electrónico)
- \nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Alelei Sandoval (HMXBD8FZXQ)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180217
-DTSTART;VALUE=DATE:20180212
-UID:1418fb94e984-62eb0c07f939458bd7b5c8c2c98fc110@airbnb.com
-DESCRIPTION:CHECKIN: 12/02/2018\nCHECKOUT: 17/02/2018\nNIGHTS: 5\nPHONE: 
- +1 (414) 659-8380\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Ted Spaetti (HMFBQEEB4E)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180310
-DTSTART;VALUE=DATE:20180301
-UID:1418fb94e984-a9b20164315b3dc60e5c8563617d7072@airbnb.com
-DESCRIPTION:CHECKIN: 01/03/2018\nCHECKOUT: 10/03/2018\nNIGHTS: 9\nPHONE: 
- +1 (719) 429-4901\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Kyle Cordova (HM935TZ3TW)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180501
-DTSTART;VALUE=DATE:20180427
-UID:1418fb94e984-70613b2d267ea4018f3aaa59f836d182@airbnb.com
-DESCRIPTION:CHECKIN: 27/04/2018\nCHECKOUT: 01/05/2018\nNIGHTS: 4\nPHONE: 
- +52 81 2001 0072\nEMAIL: (no se ha facilitado ningún correo electrónico)
- \nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Sofia Bustamante (HMYS8TXEPE)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180523
-DTSTART;VALUE=DATE:20180516
-UID:1418fb94e984-7534ecdd57881d16d9187913b0e4af15@airbnb.com
-DESCRIPTION:CHECKIN: 16/05/2018\nCHECKOUT: 23/05/2018\nNIGHTS: 7\nPHONE: 
- +1 (905) 302-4543\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Karolyn Mathews (HMW2YXNW99)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180527
-DTSTART;VALUE=DATE:20180524
-UID:1418fb94e984-3ea7ae014d7a3a4c437eba00b3de3e10@airbnb.com
-DESCRIPTION:CHECKIN: 24/05/2018\nCHECKOUT: 27/05/2018\nNIGHTS: 3\nPHONE: 
- +52 33 2517 7274\nEMAIL: (no se ha facilitado ningún correo electrónico)
- \nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Sandra Romero Carreon (HME3R2PHRP)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180605
-DTSTART;VALUE=DATE:20180528
-UID:1418fb94e984-1a4298ead6dbba78bf6d382e35cfc767@airbnb.com
-DESCRIPTION:CHECKIN: 28/05/2018\nCHECKOUT: 05/06/2018\nNIGHTS: 8\nPHONE: 
- +1 (970) 739-6736\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Cheryl Lindquist (HMDTTNWZJE)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180611
-DTSTART;VALUE=DATE:20180608
-UID:1418fb94e984-820a45a89434d97a133e6084fefed44d@airbnb.com
-DESCRIPTION:CHECKIN: 08/06/2018\nCHECKOUT: 11/06/2018\nNIGHTS: 3\nPHONE: 
- +52 351 547 9050\nEMAIL: (no se ha facilitado ningún correo electrónico)
- \nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Emmanuel Morales M (HMTPZJ35CC)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180625
-DTSTART;VALUE=DATE:20180618
-UID:1418fb94e984-1f2b30ecc0ffc268dacecd465a3e7779@airbnb.com
-DESCRIPTION:CHECKIN: 18/06/2018\nCHECKOUT: 25/06/2018\nNIGHTS: 7\nPHONE: 
- +1 (443) 910-4258\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Jerry Rabinowitz (HM3W3KJFPE)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180704
-DTSTART;VALUE=DATE:20180701
-UID:1418fb94e984-746cb8387c725bc4ce6a376f786cb4fc@airbnb.com
-DESCRIPTION:CHECKIN: 01/07/2018\nCHECKOUT: 04/07/2018\nNIGHTS: 3\nPHONE: 
- +1 (310) 903-0852\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n\nAkta Me
- hta check out
-SUMMARY:Diana Peng (HMH5P25RKT)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180722
-DTSTART;VALUE=DATE:20180719
-UID:1418fb94e984-bbbff3c6092fe86abc94fc8c19abe764@airbnb.com
-DESCRIPTION:CHECKIN: 19/07/2018\nCHECKOUT: 22/07/2018\nNIGHTS: 3\nPHONE: 
- +1 (650) 283-3054\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Ashley Myers (HMKD8NKJSJ)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180728
-DTSTART;VALUE=DATE:20180722
-UID:1418fb94e984-e392d1cab4e2a9d2773525278bb61f85@airbnb.com
-DESCRIPTION:CHECKIN: 22/07/2018\nCHECKOUT: 28/07/2018\nNIGHTS: 6\nPHONE: 
- +1 (901) 491-5707\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Kelli Fly (HMBCPEYHB8)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180813
-DTSTART;VALUE=DATE:20180810
-UID:1418fb94e984-09b179b1a10f6785bba32eb05b3a447b@airbnb.com
-DESCRIPTION:CHECKIN: 10/08/2018\nCHECKOUT: 13/08/2018\nNIGHTS: 3\nPHONE: 
- +1 (646) 221-8507\nEMAIL: (no se ha facilitado ningún correo electrónico
- )\nPROPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Carteris Brown (HM43P5KP8K)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181022
-DTSTART;VALUE=DATE:20181018
-UID:1418fb94e984-0182e6793e6c1a0979a21f73042be8e5@airbnb.com
-DESCRIPTION:CHECKIN: 18/10/2018\nCHECKOUT: 22/10/2018\nNIGHTS: 4\nPHONE: 
- +1 (650) 468-1265\nEMAIL: naima-u571x5v2zx28zoqz@guest.airbnb.com\nPROPE
- RTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Naima Hopkins (HMC495RQM5)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181031
-DTSTART;VALUE=DATE:20181026
-UID:1418fb94e984-d4654d21afe01e0d7e7ef54625e9dd3e@airbnb.com
-DESCRIPTION:CHECKIN: 26/10/2018\nCHECKOUT: 31/10/2018\nNIGHTS: 5\nPHONE: 
- +1 (808) 205-3690\nEMAIL: trista-slgv63z5r5bdxuha@guest.airbnb.com\nPROP
- ERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Trista Hewitt (HM2BZR9CHJ)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181113
-DTSTART;VALUE=DATE:20181110
-UID:1418fb94e984-65558110710401a5006542eac59d200c@airbnb.com
-DESCRIPTION:CHECKIN: 10/11/2018\nCHECKOUT: 13/11/2018\nNIGHTS: 3\nPHONE: 
- +1 (206) 369-0642\nEMAIL: peggy-grs93s8sk9xn537d@guest.airbnb.com\nPROPE
- RTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Peggy Willingham (HMHMRZ9SHB)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181127
-DTSTART;VALUE=DATE:20181125
-UID:1418fb94e984-228468960263e1f917d8983ae8b16880@airbnb.com
-DESCRIPTION:CHECKIN: 25/11/2018\nCHECKOUT: 27/11/2018\nNIGHTS: 2\nPHONE: 
- +1 (925) 708-7552\nEMAIL: keith-6gctu9yuzdcaa5c1@guest.airbnb.com\nPROPE
- RTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Keith Yandell (HMFAP9ZJ5J)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181204
-DTSTART;VALUE=DATE:20181127
-UID:1418fb94e984-4ddd539832fba430eec5f9c686399735@airbnb.com
-DESCRIPTION:CHECKIN: 27/11/2018\nCHECKOUT: 04/12/2018\nNIGHTS: 7\nPHONE: 
- +1 (208) 863-8644\nEMAIL: matt-ftzc6q8u3rbx3dkj@guest.airbnb.com\nPROPER
- TY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Matt Kral (HMB4P48453)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181216
-DTSTART;VALUE=DATE:20181213
-UID:1418fb94e984-64673adbdaaea2b7631eae919b3f4538@airbnb.com
-DESCRIPTION:CHECKIN: 13/12/2018\nCHECKOUT: 16/12/2018\nNIGHTS: 3\nPHONE: 
- +1 (917) 683-9339\nEMAIL: krystina-9swvp5k4cjzey2xn@guest.airbnb.com\nPR
- OPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Krystina Marie (HM2FX3PMCR)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20181221
-DTSTART;VALUE=DATE:20181217
-UID:1418fb94e984-bac12f83810186988908980273d2e048@airbnb.com
-DESCRIPTION:CHECKIN: 17/12/2018\nCHECKOUT: 21/12/2018\nNIGHTS: 4\nPHONE: 
- +1 (808) 277-1219\nEMAIL: kelsey-ney02gegw5540wka@guest.airbnb.com\nPROP
- ERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Kelsey Dolce (HMR5H4WRF9)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190120
-DTSTART;VALUE=DATE:20190117
-UID:1418fb94e984-25317e181c677c6b705545ad0d5fbd0f@airbnb.com
-DESCRIPTION:CHECKIN: 17/01/2019\nCHECKOUT: 20/01/2019\nNIGHTS: 3\nPHONE: 
- +1 (408) 687-9597\nEMAIL: luan-x5jiuhg7skurcuo2@guest.airbnb.com\nPROPER
- TY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Luan Nguyen (HMDZFR8YM9)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190127
-DTSTART;VALUE=DATE:20190123
-UID:1418fb94e984-778d83f8bbc71c0f2fae5a12a3096455@airbnb.com
-DESCRIPTION:CHECKIN: 23/01/2019\nCHECKOUT: 27/01/2019\nNIGHTS: 4\nPHONE: 
- +1 (760) 586-1222\nEMAIL: tonja-34p8obexeyuldm77@guest.airbnb.com\nPROPE
- RTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Tonja Sedlmayer (HMJZNB9XZY)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190203
-DTSTART;VALUE=DATE:20190127
-UID:1418fb94e984-102c661cbdecb79750ed264e4551e593@airbnb.com
-DESCRIPTION:CHECKIN: 27/01/2019\nCHECKOUT: 03/02/2019\nNIGHTS: 7\nPHONE: 
- +1 (250) 686-1167\nEMAIL: nicole-zaa0v0szqwlv6bs6@guest.airbnb.com\nPROP
- ERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Nicole Chaland (HMMCQAAATM)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190220
-DTSTART;VALUE=DATE:20190217
-UID:1418fb94e984-f413775c2ca35e6349db21cdccda9331@airbnb.com
-DESCRIPTION:CHECKIN: 17/02/2019\nCHECKOUT: 20/02/2019\nNIGHTS: 3\nPHONE: 
- +1 (832) 202-7298\nEMAIL: amy-a1k7ywuq683l84hi@guest.airbnb.com\nPROPERT
- Y: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Amy Tran (HMC5KE9RYY)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190227
-DTSTART;VALUE=DATE:20190221
-UID:1418fb94e984-64cf28544cd8c6b8f9ef6916f755a266@airbnb.com
-DESCRIPTION:CHECKIN: 21/02/2019\nCHECKOUT: 27/02/2019\nNIGHTS: 6\nPHONE: 
- +1 (415) 310-2153\nEMAIL: alexis-g0jbyqmu4sroyajk@guest.airbnb.com\nPROP
- ERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Alexis Rhorer (HMBAE44W3R)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190303
-DTSTART;VALUE=DATE:20190228
-UID:1418fb94e984-90ecdf5955788009cd4cb15a121e0f06@airbnb.com
-DESCRIPTION:CHECKIN: 28/02/2019\nCHECKOUT: 03/03/2019\nNIGHTS: 3\nPHONE: 
- +1 (310) 218-6998\nEMAIL: natasha-ul29g7rjutg5d5p1@guest.airbnb.com\nPRO
- PERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Natasha Jaffe (HMBRHD5RKA)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190311
-DTSTART;VALUE=DATE:20190307
-UID:1418fb94e984-7f70c1743708343956a9f5000d2f9582@airbnb.com
-DESCRIPTION:CHECKIN: 07/03/2019\nCHECKOUT: 11/03/2019\nNIGHTS: 4\nPHONE: 
- +1 (818) 373-9112\nEMAIL: kirby-kc4kmka8a45ybi1x@guest.airbnb.com\nPROPE
- RTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Kirby Adams (HM3ZA4ZARC)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20190424
-DTSTART;VALUE=DATE:20190420
-UID:1418fb94e984-add6eaf96a2881aa02b69f452e9975da@airbnb.com
-DESCRIPTION:CHECKIN: 20/04/2019\nCHECKOUT: 24/04/2019\nNIGHTS: 4\nPHONE: 
- +1 (650) 740-3079\nEMAIL: danielle-ozfcmy2kqoxhvmif@guest.airbnb.com\nPR
- OPERTY: ♥Luxury Beachfront Villa w/Private Pool\, Staff♥\n
-SUMMARY:Danielle Sees (HMEJC3MY8S)
-LOCATION:♥Luxury Beachfront Villa w/Private Pool\, Staff♥
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20171215
-DTSTART;VALUE=DATE:20171209
-UID:6fec1092d3fa-d89c1011a9dabd556fceb9af6adc4537@airbnb.com
-SUMMARY:Not available
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180317
-DTSTART;VALUE=DATE:20180312
-UID:6fec1092d3fa-e5a9889fc117d81381317a26383c8800@airbnb.com
-SUMMARY:Palmer booking 
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180418
-DTSTART;VALUE=DATE:20180417
-UID:6fec1092d3fa-9eae1dee413975b4b72c7ea565deb4e4@airbnb.com
-SUMMARY:Not available
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180422
-DTSTART;VALUE=DATE:20180418
-UID:6fec1092d3fa-f7cf7ef7e5015aae2596a5f3bcc3b281@airbnb.com
-SUMMARY:Meghan Sanders Family and Friends
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180618
-DTSTART;VALUE=DATE:20180611
-UID:6fec1092d3fa-1d8aa4b478711d743d027b7daa07875b@airbnb.com
-SUMMARY:Michelle Reid Rental 
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180629
-DTSTART;VALUE=DATE:20180628
-UID:6fec1092d3fa-f4c3ad4b2a9085ca2aeb161eefd7c8a5@airbnb.com
-SUMMARY:Akta Mehta - Booked directly -check in
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180701
-DTSTART;VALUE=DATE:20180629
-UID:6fec1092d3fa-3e149112ef0ac9498b2f9e9ed8031a5e@airbnb.com
-SUMMARY:Akta Mehta - Booked directly 
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180719
-DTSTART;VALUE=DATE:20180714
-UID:6fec1092d3fa-fd8ffdf371ac7a3986a4298d40ac6dc5@airbnb.com
-SUMMARY:Not available
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180804
-DTSTART;VALUE=DATE:20180729
-UID:6fec1092d3fa-cc448f364e334b99ed13acff226786cc@airbnb.com
-SUMMARY:sean harding stay
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180810
-DTSTART;VALUE=DATE:20180804
-UID:6fec1092d3fa-95dd45fcf74b6ef49f34fe5b595fa8f2@airbnb.com
-SUMMARY:Booked 
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180816
-DTSTART;VALUE=DATE:20180813
-UID:6fec1092d3fa-f9b029d3f084029b4a2e64fe5db5f9e6@airbnb.com
-SUMMARY:Not available
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180819
-DTSTART;VALUE=DATE:20180816
-UID:6fec1092d3fa-45e3bf74191831774dd0d153f436bb3f@airbnb.com
-SUMMARY:Toney Booking
-END:VEVENT
-BEGIN:VEVENT
-DTEND;VALUE=DATE:20180820
-DTSTART;VALUE=DATE:20180819
-UID:6fec1092d3fa-7904d8620dd183cf3ecdd202bfb9cc31@airbnb.com
-SUMMARY:Toney Booking check out
-END:VEVENT
-BEGIN:VEVENT
 DTEND;VALUE=DATE:20180908
-DTSTART;VALUE=DATE:20180902
-UID:6fec1092d3fa-6a13c477616d2a620d68c82f1108250f@airbnb.com
-SUMMARY:Nikki Stay - Booked Direct
+DTSTART;VALUE=DATE:20180907
+UID:1418fb94e984-958f88119227b16eeeeee5ede1a9d20b@airbnb.com
+DESCRIPTION:CHECKIN: 07/09/2018\nCHECKOUT: 08/09/2018\nNIGHTS: 1\nPHONE: 
+ +34 611 446 078\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Alehandra Monsalve (HM8HTSBSSA)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180909
+DTSTART;VALUE=DATE:20180908
+UID:1418fb94e984-210acf85f76dd9cd179fd0abcce652f0@airbnb.com
+DESCRIPTION:CHECKIN: 08/09/2018\nCHECKOUT: 09/09/2018\nNIGHTS: 1\nPHONE: 
+ +34 645 763 665\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Claudio Castello (HMBXYNDJXJ)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180916
+DTSTART;VALUE=DATE:20180914
+UID:1418fb94e984-662475702e8906b9c3aa1e3dc150f93f@airbnb.com
+DESCRIPTION:CHECKIN: 14/09/2018\nCHECKOUT: 16/09/2018\nNIGHTS: 2\nPHONE: 
+ +34 630 631 870\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Jacinto Rodríguez Alonso (HM2CF32A3P)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20180923
-DTSTART;VALUE=DATE:20180910
-UID:6fec1092d3fa-bfc8573fd160293348656db09a44e477@airbnb.com
-SUMMARY:Tentative remodeling
+DTSTART;VALUE=DATE:20180922
+UID:1418fb94e984-596988d050e55d1fd0dd390ef141e27b@airbnb.com
+DESCRIPTION:CHECKIN: 22/09/2018\nCHECKOUT: 23/09/2018\nNIGHTS: 1\nPHONE: 
+ +34 609 198 838\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Jaime Meler (HMH4WJ2QT2)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20181013
-DTSTART;VALUE=DATE:20181007
-UID:6fec1092d3fa-fd640c0aa1548d21dc26e5f1ef2690f7@airbnb.com
-SUMMARY:Diannette Figueroa 
+DTEND;VALUE=DATE:20181003
+DTSTART;VALUE=DATE:20180929
+UID:1418fb94e984-6080e4437e475ce002ce83a5c91f4d3f@airbnb.com
+DESCRIPTION:CHECKIN: 29/09/2018\nCHECKOUT: 03/10/2018\nNIGHTS: 4\nPHONE: 
+ +1 (925) 876-9042\nEMAIL: (no se ha facilitado ningún correo electrónico
+ )\nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Karen Russell (HMJAZ8SAJM)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181012
+DTSTART;VALUE=DATE:20181010
+UID:1418fb94e984-b5b5e683ee40315f092187eb83b3c15d@airbnb.com
+DESCRIPTION:CHECKIN: 10/10/2018\nCHECKOUT: 12/10/2018\nNIGHTS: 2\nPHONE: 
+ +31 6 27 52 16 94\nEMAIL: (no se ha facilitado ningún correo electrónico
+ )\nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Koen Van Der Sommen (HMWST5AA2C)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20181014
-DTSTART;VALUE=DATE:20181013
-UID:6fec1092d3fa-0a5d31a75424a1b192ece7750a826ede@airbnb.com
-SUMMARY:Diannette Figueroa check out
+DTSTART;VALUE=DATE:20181012
+UID:1418fb94e984-baade60ea74d0daffd60ae2799747e5a@airbnb.com
+DESCRIPTION:CHECKIN: 12/10/2018\nCHECKOUT: 14/10/2018\nNIGHTS: 2\nPHONE: 
+ +34 607 636 041\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Pilar Arnau (HMEMYTNACD)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20181117
+DTEND;VALUE=DATE:20181028
+DTSTART;VALUE=DATE:20181026
+UID:1418fb94e984-cefc9d62a8d4c94803d68eed77cd130a@airbnb.com
+DESCRIPTION:CHECKIN: 26/10/2018\nCHECKOUT: 28/10/2018\nNIGHTS: 2\nPHONE: 
+ +34 669 453 592\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Xavi Castañer (HMK2BX3KN4)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181104
+DTSTART;VALUE=DATE:20181103
+UID:1418fb94e984-9d2f03de6b5c8bb707f2b978d1f1bcd0@airbnb.com
+DESCRIPTION:CHECKIN: 03/11/2018\nCHECKOUT: 04/11/2018\nNIGHTS: 1\nPHONE: 
+ +34 652 817 345\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Jose Luis Villanueva (HMBMY5MT2H)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181218
+DTSTART;VALUE=DATE:20181217
+UID:1418fb94e984-3762435141c0d3fb8646297636f955b0@airbnb.com
+DESCRIPTION:CHECKIN: 17/12/2018\nCHECKOUT: 18/12/2018\nNIGHTS: 1\nPHONE: 
+ +61 430 809 844\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Fiona Wee (HMN4TKYKYT)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190101
+DTSTART;VALUE=DATE:20181230
+UID:1418fb94e984-fa84d89852522256e69f23eaca3e8379@airbnb.com
+DESCRIPTION:PROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco
+SUMMARY:Jose Luis Sanchez (HMC3H32WXS)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190104
+DTSTART;VALUE=DATE:20190103
+UID:1418fb94e984-f5eb4553256525c2e6c3e065a42e7493@airbnb.com
+DESCRIPTION:CHECKIN: 03/01/2019\nCHECKOUT: 04/01/2019\nNIGHTS: 1\nPHONE: 
+ +1 (562) 810-9373\nEMAIL: (no se ha facilitado ningún correo electrónico
+ )\nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Sarah Lanners (HMASNK9XQT)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190422
+DTSTART;VALUE=DATE:20190417
+UID:1418fb94e984-4c296a6fc9754f37b716a27253f07e27@airbnb.com
+DESCRIPTION:CHECKIN: 17/04/2019\nCHECKOUT: 22/04/2019\nNIGHTS: 5\nPHONE: 
+ +34 649 599 454\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Enrique Martin (HMTSEZR9D9)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190505
+DTSTART;VALUE=DATE:20190430
+UID:1418fb94e984-ac66c321257e4016efbbb30186cebc1f@airbnb.com
+DESCRIPTION:CHECKIN: 30/04/2019\nCHECKOUT: 05/05/2019\nNIGHTS: 5\nPHONE: 
+ +44 7854 403383\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Jessica Ainsley (HM9SRP3XAP)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190511
+DTSTART;VALUE=DATE:20190506
+UID:1418fb94e984-feee57092aa8654818f0539d4e381ce3@airbnb.com
+DESCRIPTION:CHECKIN: 06/05/2019\nCHECKOUT: 11/05/2019\nNIGHTS: 5\nPHONE: 
+ +46 70 321 43 21\nEMAIL: (no se ha facilitado ningún correo electrónico)
+ \nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Ruben Flores (HM5RSH9JWT)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190520
+DTSTART;VALUE=DATE:20190516
+UID:1418fb94e984-368d69e84bb11f063c01edb5b0c749dd@airbnb.com
+DESCRIPTION:CHECKIN: 16/05/2019\nCHECKOUT: 20/05/2019\nNIGHTS: 4\nPHONE: 
+ +54 342 405 0516\nEMAIL: (no se ha facilitado ningún correo electrónico)
+ \nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Gustavo Monella (HMANNDYH4Z)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190526
+DTSTART;VALUE=DATE:20190524
+UID:1418fb94e984-535c735ad7360e6cf94ed17359afd4f2@airbnb.com
+DESCRIPTION:CHECKIN: 24/05/2019\nCHECKOUT: 26/05/2019\nNIGHTS: 2\nPHONE: 
+ +34 636 254 127\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Pilar Lorrio Delgado (HMTYFK9XJP)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190609
+DTSTART;VALUE=DATE:20190607
+UID:1418fb94e984-a9b3f3e6b5a51c41e817fcdfc5b5f5b3@airbnb.com
+DESCRIPTION:CHECKIN: 07/06/2019\nCHECKOUT: 09/06/2019\nNIGHTS: 2\nPHONE: 
+ +54 911 3649 2424\nEMAIL: (no se ha facilitado ningún correo electrónico
+ )\nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Diego Fernandez (HMAEDBBMJ3)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190611
+DTSTART;VALUE=DATE:20190609
+UID:1418fb94e984-496f73b77948be5ac9c7196d10cd8961@airbnb.com
+DESCRIPTION:CHECKIN: 09/06/2019\nCHECKOUT: 11/06/2019\nNIGHTS: 2\nPHONE: 
+ +1 (819) 674-5784\nEMAIL: (no se ha facilitado ningún correo electrónico
+ )\nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Katy Gamache (HMAE4NH5KM)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190621
+DTSTART;VALUE=DATE:20190617
+UID:1418fb94e984-7eb39a43ad331f18f325e12444d68a3f@airbnb.com
+DESCRIPTION:CHECKIN: 17/06/2019\nCHECKOUT: 21/06/2019\nNIGHTS: 4\nPHONE: 
+ +44 7702 171610\nEMAIL: (no se ha facilitado ningún correo electrónico)\n
+ nPROPERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:David Rostron (HMAJAEBP4Y)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190714
+DTSTART;VALUE=DATE:20190706
+UID:1418fb94e984-be6f0dbb154bae04e5031613c812dcef@airbnb.com
+DESCRIPTION:CHECKIN: 06/07/2019\nCHECKOUT: 14/07/2019\nNIGHTS: 8\nPHONE: 
+ +34 678 783 348\nEMAIL: silvia-tnu2qst3vuzymnpg@guest.airbnb.com\nPROPER
+ TY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Silvia Cardenas (HM4NH3H8M9)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190721
+DTSTART;VALUE=DATE:20190714
+UID:1418fb94e984-65dc49471a2bffe9b9aef7c0d74512e6@airbnb.com
+DESCRIPTION:CHECKIN: 14/07/2019\nCHECKOUT: 21/07/2019\nNIGHTS: 7\nPHONE: 
+ +49 176 6403 6207\nEMAIL: jessica-qgtqq1eai4folgo5@guest.airbnb.com\nPRO
+ PERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Jessica Van Beeck (HMJ8P9X3HH)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190728
+DTSTART;VALUE=DATE:20190722
+UID:1418fb94e984-967f28b046b21e01186791bb9631625a@airbnb.com
+DESCRIPTION:CHECKIN: 22/07/2019\nCHECKOUT: 28/07/2019\nNIGHTS: 6\nPHONE: 
+ +31 6 42 33 73 00\nEMAIL: monique-ss0ele5rap6xewbn@guest.airbnb.com\nPRO
+ PERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Monique Vernoy (HMYXCF5YFC)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190809
+DTSTART;VALUE=DATE:20190728
+UID:1418fb94e984-79c2e87267223cf5222a3bb2855c8dba@airbnb.com
+DESCRIPTION:CHECKIN: 28/07/2019\nCHECKOUT: 09/08/2019\nNIGHTS: 12\nPHONE:
+  +34 620 467 059\nEMAIL: maria-94w1lhqoyiexpinz@guest.airbnb.com\nPROPER
+ TY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Maria Rueda (HMFHWXN59E)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190815
+DTSTART;VALUE=DATE:20190810
+UID:1418fb94e984-305b559f820fe429413dfce489ecaace@airbnb.com
+DESCRIPTION:CHECKIN: 10/08/2019\nCHECKOUT: 15/08/2019\nNIGHTS: 5\nPHONE: 
+ +44 7941 493237\nEMAIL: richard-aqfv8i6fz6cuciq3@guest.airbnb.com\nPROPE
+ RTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Richard Gaskill (HMEN434PW4)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190818
+DTSTART;VALUE=DATE:20190816
+UID:1418fb94e984-5a187318f814c634947b611bc3c66745@airbnb.com
+DESCRIPTION:CHECKIN: 16/08/2019\nCHECKOUT: 18/08/2019\nNIGHTS: 2\nPHONE: 
+ +34 616 737 566\nEMAIL: david-okxj6ju63wok6v8e@guest.airbnb.com\nPROPERT
+ Y: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:David Cabanillas (HMAMCJZ2EX)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190823
+DTSTART;VALUE=DATE:20190821
+UID:1418fb94e984-9eb8c9b45c5bf0016963bd502ae56f4d@airbnb.com
+DESCRIPTION:CHECKIN: 21/08/2019\nCHECKOUT: 23/08/2019\nNIGHTS: 2\nPHONE: 
+ +31 6 13 50 48 71\nEMAIL: santy-2abmmxkyhudu8juq@guest.airbnb.com\nPROPE
+ RTY: Utopia\n, un duplex ideal para conocer el País Vasco\n\nLuz Calatayu
+ d\n, 4 personas.
+SUMMARY:Santy Hulst (HMAFM3FD8X)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190830
+DTSTART;VALUE=DATE:20190824
+UID:1418fb94e984-3cf2ec2d7bd3023507f0e85cca962c62@airbnb.com
+DESCRIPTION:CHECKIN: 24/08/2019\nCHECKOUT: 30/08/2019\nNIGHTS: 6\nPHONE: 
+ +31 6 14 51 76 29\nEMAIL: marjoke-6jnj6vic4tvrxx9t@guest.airbnb.com\nPRO
+ PERTY: Utopia\n, un duplex ideal para conocer el País Vasco\n
+SUMMARY:Marjoke Franken (HMAFP9YMDM)
+LOCATION:Utopia\n, un duplex ideal para conocer el País Vasco
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180831
+DTSTART;VALUE=DATE:20180729
+UID:6fec1092d3fa-326e832aeb9a31e303d7c661b68d6673@airbnb.com
+SUMMARY:Airbnb (Not available)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180910
+DTSTART;VALUE=DATE:20180909
+UID:6fec1092d3fa-e9856075285d4a006cc1a30c513fbdfd@airbnb.com
+SUMMARY:Limpieza
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180917
+DTSTART;VALUE=DATE:20180916
+UID:6fec1092d3fa-3ed94e57269e7211150894b796f5e0c5@airbnb.com
+SUMMARY:Mantenimiento
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180924
+DTSTART;VALUE=DATE:20180923
+UID:6fec1092d3fa-cff792c0fed65b1aabdac9dd1181506c@airbnb.com
+SUMMARY:limpieza
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181015
+DTSTART;VALUE=DATE:20181014
+UID:6fec1092d3fa-d0549121df346921797f73c662e11d4a@airbnb.com
+SUMMARY:Airbnb (Not available)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181101
+DTSTART;VALUE=DATE:20181030
+UID:6fec1092d3fa-9830dba6cc723354d4d7f2aa11ca8435@airbnb.com
+SUMMARY:Estamos en Londres
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20181118
 DTSTART;VALUE=DATE:20181116
-UID:6fec1092d3fa-8b1a2b024c774fa543d7225f63e1a528@airbnb.com
-SUMMARY:Not available
+UID:6fec1092d3fa-abd4025d87672ce133b0222a74e41d64@airbnb.com
+SUMMARY:Pablo Bailo y otros tres\n, dos parejas. Pagan 58 en adelanto y 17
+ 7 aquí.
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20181123
-DTSTART;VALUE=DATE:20181117
-UID:6fec1092d3fa-f23249a705e86b7399b5c08bdeb2a286@airbnb.com
-SUMMARY:repeat guest from Vacation Homes rentals - same rate as last year
+DTEND;VALUE=DATE:20181210
+DTSTART;VALUE=DATE:20181206
+UID:6fec1092d3fa-97787fa8fddc6ce1f1f17ea475885773@airbnb.com
+SUMMARY:Eva Meliro\n, huésped de Utopía tel 616920276
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20181222
-DTSTART;VALUE=DATE:20181221
-UID:6fec1092d3fa-d425fd8c5650cfacdda525066ed3fea5@airbnb.com
-SUMMARY:Not available
+DTEND;VALUE=DATE:20181230
+DTSTART;VALUE=DATE:20181223
+UID:6fec1092d3fa-5599ceb65b8b32a89f8e1fe96f874cd1@airbnb.com
+SUMMARY:Airbnb (Not available)
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20190108
-DTSTART;VALUE=DATE:20190107
-UID:6fec1092d3fa-249a1401662e6abd497ae151413c70eb@airbnb.com
-SUMMARY:Not available
+DTEND;VALUE=DATE:20190102
+DTSTART;VALUE=DATE:20190101
+UID:6fec1092d3fa-ca3fb91e7300e63bf8e46268ee5981e8@airbnb.com
+SUMMARY:Airbnb (Not available)
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20190317
-DTSTART;VALUE=DATE:20190314
-UID:6fec1092d3fa-54fb41fd2c13ffe2492aa64ad3d8e65d@airbnb.com
-SUMMARY:Lara May booking
+DTEND;VALUE=DATE:20190218
+DTSTART;VALUE=DATE:20190215
+UID:6fec1092d3fa-a2eeb33ef255154631544d15bf00b29b@airbnb.com
+SUMMARY:¡Me voy a Baqueira!
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20191020
-DTSTART;VALUE=DATE:20191019
-UID:6fec1092d3fa-2ddb85d2e1158d9b701f113148c1d394@airbnb.com
-SUMMARY:winner of Vail Mtn Rescue Group auction ($1900 paid)
+DTEND;VALUE=DATE:20190311
+DTSTART;VALUE=DATE:20190309
+UID:6fec1092d3fa-77ee87ad794635de9df9ab7e789fa6bf@airbnb.com
+SUMMARY:Airbnb (Not available)
 END:VEVENT
 BEGIN:VEVENT
-DTEND;VALUE=DATE:20191026
-DTSTART;VALUE=DATE:20191020
-UID:6fec1092d3fa-6b5392b94aba3cead5ec345822fb9741@airbnb.com
-SUMMARY:8/22/18 HOLD - winner of Vail Mtn Rescue Group auction ($1900 paid)
+DTEND;VALUE=DATE:20190325
+DTSTART;VALUE=DATE:20190322
+UID:6fec1092d3fa-18854d426272908eb73841210e30ff36@airbnb.com
+SUMMARY:Me voy a Baqueira
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190331
+DTSTART;VALUE=DATE:20190330
+UID:6fec1092d3fa-da6c5279544484433248ad41e145aa6f@airbnb.com
+SUMMARY:Saray\n, seis enfermeras para hacer ayuno. Vía Whatsapp. 
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190415
+DTSTART;VALUE=DATE:20190411
+UID:6fec1092d3fa-99b40827251b30a74ba792d83eb4e3dd@airbnb.com
+SUMMARY:Estamos en Londres
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190423
+DTSTART;VALUE=DATE:20190422
+UID:6fec1092d3fa-da7f091da5f09ba89b5f9db9d0b66c51@airbnb.com
+SUMMARY:Airbnb (Not available)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190429
+DTSTART;VALUE=DATE:20190426
+UID:6fec1092d3fa-9628672786bd1a04f0e3c0d4730212aa@airbnb.com
+SUMMARY:Nos vamos a Baiona!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190506
+DTSTART;VALUE=DATE:20190505
+UID:6fec1092d3fa-d86d47b86be392d532cf8023912b41a7@airbnb.com
+SUMMARY:Limpieza
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190523
+DTSTART;VALUE=DATE:20190520
+UID:6fec1092d3fa-cfee122832c715137b4aadd9e3c40074@airbnb.com
+SUMMARY:Limpieza
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190524
+DTSTART;VALUE=DATE:20190523
+UID:6fec1092d3fa-e47d2c78323d62675bf5bb580a255ce2@airbnb.com
+SUMMARY:Pilar y familia llegan un día antes
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190615
+DTSTART;VALUE=DATE:20190614
+UID:6fec1092d3fa-6c9694352c1927c4034f9348770dd421@airbnb.com
+SUMMARY:Marta
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190624
+DTSTART;VALUE=DATE:20190621
+UID:6fec1092d3fa-2ebc4af29f8abf4a052abea442714441@airbnb.com
+SUMMARY:Con la cuadrilla
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190722
+DTSTART;VALUE=DATE:20190721
+UID:6fec1092d3fa-0fc5281d31c8cd4945632f861431e888@airbnb.com
+SUMMARY:Mantenimiento
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20190810
+DTSTART;VALUE=DATE:20190809
+UID:6fec1092d3fa-78841b6cd898403f5e28e6029928ea7b@airbnb.com
+SUMMARY:Mantenimiento
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20200730
+DTSTART;VALUE=DATE:20200728
+UID:6fec1092d3fa-f01de3f272d8315813a458b5f6b4872a@airbnb.com
+SUMMARY:Airbnb (Not available)
 END:VEVENT
 END:VCALENDAR
